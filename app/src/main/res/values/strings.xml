@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MainPage</string>
+    <string name="app_name">SerAndNoti</string>
+    <string name="main_activity_label">MainPage</string>
 </resources>
